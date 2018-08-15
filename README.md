@@ -1,2 +1,6 @@
 # gitskills
-nihao github
+<<<<<<< HEAD
+nihao git!
+=======
+nihao git!
+>>>>>>> feature1
